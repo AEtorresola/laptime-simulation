@@ -1,0 +1,6 @@
+numpy==1.18.1 
+matplotlib==3.3.1 
+trajectory_planning_helpers>=0.76
+utm==0.5.0
+quadprog>=0.1.7
+pytest==5.4.3
